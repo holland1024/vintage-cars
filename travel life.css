@@ -1,0 +1,71 @@
+*{
+    margin: 0%;
+text-decoration: none;}
+    /* that code used firt headline*/
+.c1{
+    background-color: rgba(226, 218, 218, 0.551);
+    color: rgb(35, 35, 36);
+    padding-top: 3%;
+    padding-bottom: 3%;
+    font-size: 2em;
+    font-style: normal;
+/* that code was end */
+}
+/* that code was use by list background color*/
+.d1{
+    background-color: rgba(236, 218, 218, 0.51);
+    color: rgb(16, 16, 16);
+    /* that code was end */
+}
+/* that code was list font design for used*/
+nav ul.l1{
+    list-style: none;
+
+    display: flex; 
+    gap: 50px;
+    padding-left: 10px;
+    margin-right: 10px;
+    font-size:x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    /* that code was end */
+}
+a{
+    color: black;
+}
+/* that code use by background animation to list */
+nav ul.l1 li:hover{
+background-color: aqua;
+border-radius: 20px;
+padding-left: 10px;
+padding-right: 10px;
+border-bottom: 2px solid aqua;
+/*that code was end*/
+    
+}
+/* that code used by first letters of pragraph*/
+.p1{
+    padding-top: 40%;
+    font-size: 4em;
+    color: rgb(252, 249, 249);
+    /*that code was end*/
+}
+/*that code used by start button design*/
+nav ul.l2 li{
+    position: absolute;
+    left: 40%;
+    margin-top: 5%;
+    background-color: aliceblue;
+    font-size: xx-large;
+    border-radius: 20px;
+    color: black;
+    padding-left: 3%;
+    
+    padding-right: 3%;
+    list-style: none;
+    
+
+}
+nav ul.l2 li:hover{
+    background-color: antiquewhite;
+    /* that code was end*/
+}
